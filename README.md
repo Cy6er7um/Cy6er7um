@@ -1,6 +1,6 @@
 <!--suppress ALL -->
 
-# 👋 ஐ Enabled Fish ஐ <a href="https://github.com/EnabledFish"><img alt="GitHub followers" src="https://img.shields.io/github/followers/EnabledFish?style=flat-square&logo=github" /></a> <a href="https://twitter.com/EnabledFish"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EnabledFish?style=flat-square&logo=twitter" /></a>
+# 👋 ஐ Enabled Fish ஐ <a href="https://github.com/EnabledFish"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/EnabledFish?style=flat&logo=github" /></a> <a href="https://twitter.com/EnabledFish"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/EnabledFish?style=flat&logo=twitter" /></a>
 
 <img align="right" width="400" src="./Images/Raining.gif" />
 
@@ -53,4 +53,5 @@ Github: @EnabledFish
 Twitter: @EnabledFish
 ```
 
-[![☬](https://img.shields.io/badge/@EnabledFish-%23181717?style=flat-square&logo=github)](https://github.com/EnabledFish)
+[![☬](https://komarev.com/ghpvc/?username=EnabledFish&stype=flat)](https://github.com/EnabledFish)
+[![☬](https://img.shields.io/badge/@EnabledFish-%23181717?style=flat&logo=github)](https://github.com/EnabledFish)
