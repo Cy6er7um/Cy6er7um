@@ -42,9 +42,8 @@ pub extern "C" fn _start() -> ! {
 
 # 📃 〄 Analysis 〄
 
-<img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=EnabledFish&count_private=true&show_icons=true&theme=radical" />
-<img width="44%" align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnabledFish&theme=radical" />
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnabledFish&theme=monokai" />
+<img width="41%" align="left" src="https://github-readme-stats.vercel.app/api?username=EnabledFish&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=radical" />
+<img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnabledFish&theme=radical" />
 
 # 📞 ❅ Contact ❅
 
