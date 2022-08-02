@@ -50,6 +50,7 @@ pub extern "C" fn _start() -> ! {
 ```text
 Github: @EnabledFish
 Twitter: @EnabledFish
+Mail: enabledfish@gmail.com
 ```
 
 [![☬](https://komarev.com/ghpvc/?username=EnabledFish&stype=flat)](https://github.com/EnabledFish)
